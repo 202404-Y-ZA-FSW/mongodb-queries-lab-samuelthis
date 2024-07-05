@@ -5,7 +5,7 @@ Write a MongoDB query to:
 1. Display all the documents in the restaurants collection.
 ```
 Paste your solution here
-```
+```db.restaurants.find()
 
 2. Display the fields restaurant_id, name, borough and cuisine for all the documents in the collection.
 ```
